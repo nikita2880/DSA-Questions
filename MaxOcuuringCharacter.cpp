@@ -3,6 +3,7 @@
 
 using namespace std;
 
+
 char maxOccuring(string s)
 {
     int arr[26]={0},number=0;
